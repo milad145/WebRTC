@@ -6,7 +6,7 @@ This is a WebRTC project which you can make video + voice call.
 ---
 
 ### Technologies
-Vanila JS + Node.js(express) + CSS  <br>
+Vanilla JS + Node.js(express) + CSS  <br>
 <br>
 NPM packages : express – socket.io – peerjs – uuid - ejs 
 
