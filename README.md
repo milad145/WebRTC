@@ -1,7 +1,7 @@
 # WebRTC
 
 ### Explain the product
-This is a WebRTC project which you can have video + voice call.
+This is a WebRTC project which you can make video + voice call.
 
 ---
 
