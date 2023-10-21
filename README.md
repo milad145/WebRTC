@@ -26,12 +26,11 @@ npm run dev
 ```
 Step 3 :
 run through 2 browser tabs (with same URL)
+```bash
 
----
-### Backend API :
-It doesn’t contain.
+http://localhost:3000/
+```
 
----
 
 ### Folder & File structure :
 todo
